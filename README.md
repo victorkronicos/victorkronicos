@@ -3,21 +3,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhenrique96/)](https://www.linkedin.com/in/victorhenrique96/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor_henrique@live.com)](mailto:victor_henrique@live.com)
 
-## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Hello! Welcome to my profile.
 
-Meu nome é Victor Henrique, 25, Desenvolvedor Full Stack.
+My name is Victor Henrique, 25, Full Stack Developer.
 
 - :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
-- :books: Estudando: AWS, Docker e Kubernetes
+- :books: Learning: AWS, Docker e Kubernetes
 
 ---
 
 <details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+  <summary> <b> Want to know more about me? </b> <i>(Click here to expand)</i> </summary>
   <br>
   
+  Currently I'm working with Web FullStack development with Javascript (ES6), CSS (Sass and Stylus), MongoDB and NodeJS. I have experience with Laravel (PHP), Wordpress(PHP), React(JS) and Vue(JS) frameworks. In addition to the technical part, I developed some Soft Skills in previous experiences, such as the ease of expressing myself, understanding the client's needs, dealing well with goals/deadlines and working as a team.
 
-  ## Algumas Tecnologias
+  ## Some Tech
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
