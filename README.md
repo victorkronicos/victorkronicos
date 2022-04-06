@@ -1,21 +1,14 @@
-# :man_technologist: Lucas Bittencourt
+# :man_technologist: Victor Henrique
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/lgdbittencourt)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/93508/lucas-bittencourt)
-[![DEV Badge](https://img.shields.io/badge/-DEV-black?style=for-the-badge&logo=Dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhenrique96/)](https://www.linkedin.com/in/victorhenrique96/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor_henrique@live.com)](mailto:victor_henrique@live.com)
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Lucas Bittencourt, 22, Desenvolvedor Full Stack e amante do DevOps!
+Meu nome é Victor Henrique, 25, Desenvolvedor Full Stack.
 
-- :office_worker: Software Engineer no [**Curso Ênfase**](https://cursoenfase.com.br/)
 - :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
-- :books: Estudando: AWS, Relay & GraphQL
-
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
+- :books: Estudando: AWS, Docker e Kubernetes
 
 ---
 
@@ -23,17 +16,6 @@ Meu nome é Lucas Bittencourt, 22, Desenvolvedor Full Stack e amante do DevOps!
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
-  
----
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=lucasgdb" alt="Trophies" />
-    </a>
-  </p>
 
   ## Algumas Tecnologias
 
