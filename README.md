@@ -5,9 +5,9 @@
 
 ## Hello! Welcome to my profile.
 
-My name is Victor Henrique, 26, Full Stack Developer.
+My name is Victor Henrique, 26, Software Engineer.
 
-- :blue_heart: Stack: ReactJS, Node, PostgreSQL & React Native
+- :blue_heart: Stack: Java
 - :books: Learning: AWS, Docker e Kubernetes
 
 ---
@@ -16,7 +16,7 @@ My name is Victor Henrique, 26, Full Stack Developer.
   <summary> <b> Want to know more about me? </b> <i>(Click here to expand)</i> </summary>
   <br>
   
-  Currently I'm working with Web FullStack development with Javascript (ES6), CSS (Sass and Stylus), MongoDB and NodeJS. I have experience with Laravel (PHP), Wordpress(PHP), React(JS) and Vue(JS) frameworks. In addition to the technical part, I developed some Soft Skills in previous experiences, such as the ease of expressing myself, understanding the client's needs, dealing well with goals/deadlines and working as a team.
+  Currently I'm working as a Software Engineer. I have a lot experiences, from small to complex projets. I'm self-taught, and now I've worked with with Laravel (PHP) and Node.JS (Javascript). Now i'm studying and practicing AWS solutions to the Projects I have been developing, currently studying Spring Boot Framework to increase my knowledge base.
 
   ## Some Tech
 
