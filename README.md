@@ -1,8 +1,7 @@
 # :man_technologist: Victor Henrique
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhenrique96/)](https://www.linkedin.com/in/victorhenrique96/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor_henrique@live.com)](mailto:victor_henrique@live.com)
-[![AWS_Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)(https://www.credly.com/badges/baeec00a-5bc4-4ac0-ad42-000e15e27415/public_url)
+[![AWS_Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&link=https://www.credly.com/badges/baeec00a-5bc4-4ac0-ad42-000e15e27415/public_url)](https://www.credly.com/badges/baeec00a-5bc4-4ac0-ad42-000e15e27415/public_url)
 
 ## Hello! Welcome to my profile.
 
